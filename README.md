@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Anniessa</h1>
-<h3 align="center">A software engineer, educator and cultural worker</h3>
+<h3 align="center">I'm a software developer, educator and culture worker who believes in the power of creative, playful, and collective work to build a more just world. </h3>
 
-- 🔭 I’m currently working on [a client project at Prime Digital Academy](Link Forthcoming!)
+- 🔭 I’m currently working on a client project at Prime Digital Academy.
 
-- 🌱 I’m currently learning **JavaScript, C#/.Net**
+- 🌱 I’m currently learning **JavaScript and React.**
 
 - 👯 I’m looking to collaborate on **anything and everything!**
 
 - 📫 How to reach me **anniessa.antar@gmail.com**
 
-- ⚡ Fun fact **I love escape rooms!**
+- ⚡ Fun fact **I love escape rooms, foraging for mushrooms, hanging out with my two cats, Bert&Ernie and Chicken Noodle.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
