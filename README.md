@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anniessa</h1>
+<h1 align="center">Hi 👋, I'm Anniessa!</h1>
 <h3 align="center">I'm a software developer, educator and culture worker who believes in the power of creative, playful, and collective work to build a more just world. </h3>
 
 - 🔭 I’m currently working on a client project at Prime Digital Academy.
