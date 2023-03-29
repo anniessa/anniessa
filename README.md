@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **anniessa.antar@gmail.com**
 
-- ⚡ Fun fact **I love escape rooms, foraging for mushrooms, hanging out with my two cats, Bert&Ernie and Chicken Noodle.**
+- ⚡ Fun facts: **I love escape rooms, foraging for mushrooms, learning how to weave and hanging out with my two cats, Bert&Ernie and Chicken Noodle.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
