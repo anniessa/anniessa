@@ -5,11 +5,11 @@
 
 - I’m currently learning **JavaScript and React.**
 
-- I’m looking to collaborate on **anything and everything!**
+- I’m looking to collaborate on **React projects, including React Native, interesting projects where I can practice fullstack development work.**
 
-- How to reach me **anniessa.antar@gmail.com**
+- You can reach me at **anniessa.antar@gmail.com**
 
-- Fun facts: **I love escape rooms, foraging for mushrooms, learning how to weave and hanging out with my two cats, Bert&Ernie and Chicken Noodle.**
+- Fun facts: **I love escape rooms 🧩, foraging for mushrooms 🍄, learning how to weave 🧣 and hanging out with my two cats, Bert&Ernie 😼 and Chicken Noodle 😽.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
