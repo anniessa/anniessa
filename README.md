@@ -1,7 +1,8 @@
+![](https://komarev.com/ghpvc/?username=anniessa&color=blueviolet&style=for-the-badge)
 <h1 align="center">Hi, I'm Anniessa!</h1>
 <h3 align="center">I'm a software developer, educator and culture worker who believes in the power of creative, playful, and collective work to build a more collaborative world. </h3>
 
-![](https://komarev.com/ghpvc/?username=anniessa)
+
 
 - I’m currently learning **JavaScript and React.**
 
