@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Anniessa!</h1>
 <h3 align="center">I'm a software developer, educator and culture worker who believes in the power of creative, playful, and collective work to build a more collaborative world. </h3>
 
-- I’m currently learning **Next, TypeScript.**
+- I’m currently learning **Next.js, TypeScript, becoming an AWS Certified Cloud Practitioner.**
 
 - I’m looking to collaborate on **React projects, including React Native, interesting projects where I can continue deepening my software development skills.**
 
